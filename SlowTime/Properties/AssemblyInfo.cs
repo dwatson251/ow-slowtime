@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ModTemplate")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("SlowTime")]
+[assembly: AssemblyDescription("Slows time-based events in the game to give you more time to explore!")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ModTemplate")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyProduct("SlowTime")]
+[assembly: AssemblyCopyright("Copyright © Dan Watson 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

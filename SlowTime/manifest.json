@@ -1,0 +1,9 @@
+{
+	"filename": "SlowTime.dll",
+	"author": "dnlwtsn",
+	"name": "SlowTime",
+	"uniqueName": "dnlwtsn.SlowTime",
+	"version": "0.1.0",
+	"owmlVersion": "2.0.0",
+	"description": "Slows time-based events in the game to give you more time to explore!"
+}
